@@ -1,0 +1,6 @@
+{
+  "name": "Salah Al-Mamari Portfolio",
+  "description": "Portfolio page for Salah Aldeen Mohammed Al-Mamari, Mobile Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
